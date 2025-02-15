@@ -1,11 +1,11 @@
-# **SQL 50 LeetCode Solutions 🚀**  
-A **curated collection of SQL solutions** for the **Top 50 LeetCode SQL problems** with optimized queries and structured explanations.
+## 📌 Problem List
+**Curated solutions for LeetCode's Top 50 SQL Questions**  
+*(Ordered by problem frequency)*
 
-## **📌 Problem List**
-This repository contains **solutions to the most frequently asked SQL problems** on LeetCode.
-
-| 📚 LeetCode Question | 📝 Solution |
-|----------------------|------------|
-| [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [🔗 View Solution]([./solutions/1757.sql](https://github.com/MohamaduRiyas/SQL_50_LC_SOLUTIONS/commit/1c8f35371798baa73e1ad9765613cf646065b522)) |
-
-
+| #   | Problem Statement | Solution |
+|-----|-------------------|----------|
+| 1   | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [🐬 View SQL](solutions/1-1757-recyclable-and-low-fat-products.sql) |
+| 2   | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [🐬 View SQL](solutions/2-584-find-customer-referee.sql) |
+| 3   | [595. Big Countries](https://leetcode.com/problems/big-countries) | [🐬 View SQL](solutions/3-595-big-countries.sql) |
+| 4   | [1148. Article Views I](https://leetcode.com/problems/article-views-i) | [🐬 View SQL](solutions/4-1148-article-views-i.sql) |
+| 5   | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [🐬 View SQL](solutions/5-1683-invalid-tweets.sql) |
